@@ -9,7 +9,6 @@ scikit-learn
 seaborn
 pandas<2.0
 pymongo
-pymongo[srv]
 xgboost
 dill
 numpy<2.0
